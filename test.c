@@ -7,3 +7,6 @@ void main(){
 void adder(int a, int b){
   return a + b;
 }
+void multiplier(int a, int b){
+  return a*b;
+}

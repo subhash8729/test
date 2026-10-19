@@ -9,7 +9,7 @@ void main(){
         printf("the value of a is", a);
     }
     return 0;
-}
+
 
 void logger(){
     printf("logger function");

@@ -10,3 +10,7 @@ void main(){
     }
     return 0;
 }
+
+void logger(){
+    printf("logger function");
+}

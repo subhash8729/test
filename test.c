@@ -14,3 +14,10 @@ void main(){
 void logger(){
     printf("logger function");
 }
+
+void adder(int a, int b){
+  return a + b;
+}
+void multiplier(int a, int b){
+  return a*b;
+}
